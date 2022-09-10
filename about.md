@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate majoring in [Software Engineering](http://ruanjian.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now an intern in the team of Professor [Wang Peng](https://teacher.nwpu.edu.cn/pengwang.html) at the [National Engineering Laboratory of Big Data Application Technology of Northwestern Polytechnical University](http://kypt.nwpu.edu.cn/index.php?c=content&a=show&id=307), mainly researching person re-identification and cross-modal matching
+I am now a first year Ph.D. student in [VMC group](http://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang in Peking University, Beijing, China. 
 
-My research interests are computer vision, deep learning, robotics and etc.
+My research interests are computer vision, multimodal machine learning and etc.
 
 Educations
 ======
-* Aug.2018-now . B.S. in School of Software, Northwestern Polytechnical University
+* Aug. 2018-Jul. 2022 B.E. in School of Software, Northwestern Polytechnical University.
+* Aug. 2022-now. Ph.d in Department of Computer Science and Technology, Peking University, China.
 
 # Publications
 
@@ -34,12 +35,5 @@ Honors and Awards
 Projects
 ======
   * [basketball robot project](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
-  * radar robot
-  * KDD baseline 
   * [China Robotics Competition Advanced Vision](https://github.com/Zehong-Ma/nwpu_19_advanced_vision)
-  * passage flow predict
-  * [xi'an house price analysis system](https://gitee.com/a-years-work-can-only-buy-a-toilet/house-analysis)
-  * wechat-program for school use
-  * visual refinement 
-  * [OPINE-Net(tensorflow)](https://github.com/Zehong-Ma/OPINE-Net)
   * [MIDL Compiler](https://github.com/Zehong-Ma/MIDL_compiler)

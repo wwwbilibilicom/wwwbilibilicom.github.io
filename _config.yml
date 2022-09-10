@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zehong Ma"
 title_separator          : "-"
 name                     : &name "Zehong Ma"
-description              : &description "Undergraduate at Northwestern Polytechnical University"
+description              : &description "Ph.D. student at Peking University"
 url                      : https://zehong-ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zehong-ma/zehong-ma.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "马泽红"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate at Northwestern Polytechnical University"
-  location         : "Xi'an,China"
+  bio              : "Ph.D. at Peking University"
+  location         : "Beijing,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "npumzh@mail.nwpu.edu.cn"
+  email            : "zehongma@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
