@@ -15,7 +15,7 @@ My research interests are computer vision, multimodal machine learning and etc.
 Educations
 ======
 * Aug. 2018-Jul. 2022 B.E. in School of Software, Northwestern Polytechnical University.
-* Aug. 2022-now. Ph.d in Department of Computer Science and Technology, Peking University, China.
+* Aug. 2022-now. Ph.D. in Department of Computer Science and Technology, Peking University, China.
 
 # Publications
 
