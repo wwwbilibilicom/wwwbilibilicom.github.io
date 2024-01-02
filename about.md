@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year Ph.D. student in [VMC group](http://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang in Peking University, Beijing, China. 
+I am now a second-year Ph.D. student in [VMC group](http://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang in Peking University, Beijing, China. 
 
 My research interests are computer vision, multimodal machine learning and etc.
 
 Educations
 ======
 * Aug. 2018-Jul. 2022 B.E. in School of Software, Northwestern Polytechnical University.
-* Aug. 2022-now. Ph.D. in Department of Computer Science and Technology, Peking University, China.
+* Aug. 2022-now. Ph.D. in the Department of Computer Science and Technology, Peking University, China.
 
 # Publications
 
@@ -23,6 +23,7 @@ Educations
 
 Honors and Awards
 ======
+* 2021\. China National Scholarship
 * 2020\. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
 * 2020\. China National Scholarship
 * 2019\. China National Scholarship
