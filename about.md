@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a first-year master's student in IMS group under the supervision of Professor Shiliang Zhang in University of Science and Technology of China(中国科学技术大学), Hefei, China. 
 
-My research interests are variable stiffness actuators, the overall design of underwater unmanned submersibles, deep reinforcement learning and etc.
+My research interests are variable stiffness actuators, the overall design of unmanned underwater vehicle, deep reinforcement learning and etc.
 
 Educations
 ======
@@ -19,6 +19,10 @@ Educations
 
 Skills
 ======
+* Linux
+* embedded software development & embedded hardware development
+* mechanical design and manufacturing
+* use of C/C++ python3
 
 Publications
 ====
