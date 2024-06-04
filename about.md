@@ -17,7 +17,7 @@ Educations
 * Aug. 2019-Jul. 2023 B.E. in School of Marine Science and Technology, Northwestern Polytechnical University, China.
 * Aug. 2023-now. M.S. in School of Engineering Science, University of Science and Technology of China, China.
 
-Tech Stack
+Skills
 ======
 
 Publications
