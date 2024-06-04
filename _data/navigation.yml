@@ -3,6 +3,9 @@ main:
   - title: "Educations"
     url: /#educations
 
+  - title: "Tech Stack"
+    url: /#tech Stack
+    
   - title: "Publications"
     url: /#publications  
   
