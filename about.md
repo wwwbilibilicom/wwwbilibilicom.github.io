@@ -28,7 +28,7 @@ Publications
 ====
 None
 
-Honors and Awards
+Honors&Awards
 ======
 * 2021\. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
 * 2021\. China National Scholarship
