@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zehong Ma(马泽红)'s Homepage"
+title: "Wenbo Li(李文渤)'s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
