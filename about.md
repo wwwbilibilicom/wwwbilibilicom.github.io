@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a firest-year master's student in IMS group under the supervision of Professor Shiliang Zhang in University of Science and Technology of China, Hefei, China. 
+I am now a first-year master's student in IMS group under the supervision of Professor Shiliang Zhang in University of Science and Technology of China, Hefei, China. 
 
 My research interests are variable stiffness actuators, the overall design of underwater unmanned submersibles, deep reinforcement learning and etc.
 
@@ -30,10 +30,8 @@ Honors and Awards
 * 2021\. China National Scholarship
 * 2020\. China National Scholarship
 * 2020\. Outstanding Student of Northwestern Polytechnical University
-* 2020\. National Champion of China Robotics Competition Basketball Robot Project(Autonomy&Challenge) 
-* 2020\. National First Prize of DJI Robomaster Competition 
-* 2020\. Ranked 24th among 1433 teams in KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall
-* 2019\. National Third Runner-up of China Robotics Competition Advanced Vision Project(3D Measurement)
+* 2020\. National First Prize of the 9th China Marine Vehicle Design and Construction and 2020 Marine Equipmentinnovation competition
+* 2020\. National First Prize of the 22nd National Robot Championship 
 
 Projects
 ======
