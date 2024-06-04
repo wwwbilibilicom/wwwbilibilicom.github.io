@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "马泽红"
+  name             : "李文渤"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at Peking University"
-  location         : "Beijing, China"
+  bio              : "Master degree candidate at University of Science and Technology of China"
+  location         : "Hefei, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zehongma@stu.pku.edu.cn"
+  email            : "liwenboxgd@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zehong-Ma"
+  github           : "wwwbilibilicom"
   google_plus      :
   keybase          :
   instagram        :
